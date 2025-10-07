@@ -23,13 +23,15 @@ function TreatmentCard() {
         <a href="#" class="read-more">Read More</a>
       </div>
 
-      <div class="card">
+      <div class="floating-card">
         <img src="https://demo-thelaserspine-gfb2f4hwcqf2dse2.canadacentral-01.azurewebsites.net/assets/images/news3.jpg" alt="News 3"/>
         <div class="date">July 11, 2025</div>
         <h3>Selecting the Ideal Spine Surgeon for Endoscopic Spine Surgery</h3>
-        <p></p>
+        <p>.  </p>
         <a href="#" class="read-more">Read More</a>
       </div>
+  
+
 
     </div>
 

@@ -3,11 +3,11 @@ import React from 'react'
 function TreatmentList() {
   return (
     <section>
-        
+
 <section class="spine-treatments">
   <div class="containss">
     <h2 class="section-title">Spine Treatments</h2>
-    
+
     <div class="treatment-grid">
       <div class="treatment-item">
         <img src="https://demo-thelaserspine-gfb2f4hwcqf2dse2.canadacentral-01.azurewebsites.net/assets/images/spine1.jpg" alt="Ultra Minimally Invasive"/>

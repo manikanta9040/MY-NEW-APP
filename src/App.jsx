@@ -1,17 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
-import TreatmentList from './Treatment list'
-import HighestRated from './TreatmentCard'
+import TreatmentCard from './Components/TreatmentCard'
+import TreatmentList from './Components/TreatmentList'
+
+
 
 function App() {
-  const [count, setCount] = useState(0)
 
-  return (
+return (
     <>
     <TreatmentList/>
-    <HighestRated/>
+    <TreatmentCard/>
     </>
   )
 }
