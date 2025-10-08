@@ -3,10 +3,10 @@ import React from 'react'
 function TreatmentCard() {
   return (
     <div>
-      
+
  <section class="news">
     <div class="news-cards">
-      
+
       <div class="card">
         <img src="https://demo-thelaserspine-gfb2f4hwcqf2dse2.canadacentral-01.azurewebsites.net/assets/images/news1.jpg" alt="News 1"/>
         <div class="date">August 6, 2025</div>
@@ -30,7 +30,7 @@ function TreatmentCard() {
         <p>.  </p>
         <a href="#" class="read-more">Read More</a>
       </div>
-  
+
 
 
     </div>
